@@ -24,7 +24,7 @@ const Intro = () => {
 
           </span>
         </div>
-        <Link to="Why SovTech" smooth={true} spy={true}>
+        <Link to="Why Me" smooth={true} spy={true}>
         </Link>
       </div>
       {/* right image side */}
