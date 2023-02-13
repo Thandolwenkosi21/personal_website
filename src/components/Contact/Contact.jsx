@@ -10,8 +10,8 @@ const Contact = () => {
 
       <div className="w-left-top">
         <div className="awesome">
-          <h1>why sovTech</h1>
-            <p>The reason why I see myself being a part of the SovTech team is because I am a maticulous and systematic software developer who works well in teams. I believe that the SovTech graduates program would help me bloom and grow as a developer. Not forgetting that SovTech uses programming languages that I would like to look into and learn, with the help of a mentor of course.</p>
+          <h1>why Me?</h1>
+            <p>My academic experiences have served me well in developing my problem-solving, communication, and critical thinking skills.As a student from WeThinkCode I have strong knowledge in a few programing languages; including Python, Java,Flutter ,SQL, Java Script, HTML and CSS. I work well to use clear and concise communication to interact professionally with my team mates.I believe I will serve as an asset.I would like to expand my knowledge in the software industry and gain experience.</p>
         </div>
       </div>
       </div>
