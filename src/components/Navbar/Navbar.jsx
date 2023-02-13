@@ -29,7 +29,7 @@ const navbar = () => {
           </ul>
         </div>
         <Link to="contact" spy={true} smooth={true}>
-        <button className="button n-button">Why SovTech</button>
+        <button className="button n-button">Why Me?</button>
         </Link>
       </div>
     </div>
