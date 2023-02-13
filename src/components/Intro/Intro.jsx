@@ -19,7 +19,7 @@ const Intro = () => {
           <span style={{ color: darkMode ? "white" : "" }}>Hi! I Am</span>
           <span>Thandolwenkosi Dube</span>
           <span>
-          Aspiring Software Engineer eager to contribute to team success through hard work.I am a hard worker ,dedicated to improving my skills through development work.
+          Software Engineer eager to contribute to team success through hard work.I am a hard worker ,dedicated to improving my skills through development work.
           I am passionate about teamwork and technology.
 
           </span>
