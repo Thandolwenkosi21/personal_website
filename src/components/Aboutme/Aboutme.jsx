@@ -29,7 +29,7 @@ const Services = () => {
         <spane>
           I am a vibrant, kind and caring soul.
           <br />
-          I am a 2nd year student at WeThinkCode.
+         Software deverloper.
         </spane>
         <a href={Resume} download>
           <button className="button s-button">Download Resume</button>
