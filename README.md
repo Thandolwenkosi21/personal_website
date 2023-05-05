@@ -1,4 +1,4 @@
-# SovTech mini-portfolio page
+#mini-portfolio page
 
 ## Task for the project
 
