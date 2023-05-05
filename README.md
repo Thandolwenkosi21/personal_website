@@ -1,4 +1,4 @@
-#mini-portfolio page
+#Mini Portfolio Page
 
 ## Task for the project
 
